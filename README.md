@@ -1,7 +1,7 @@
 # Student--Management--System
 Simple Student Management System project using C++
-Features:
+# Features:
 -Add student details
 -Display records
-Language Used:
+## Language Used:
 -C++
